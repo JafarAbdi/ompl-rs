@@ -1,1 +1,4 @@
 /target
+.ompl
+# pixi environments
+.pixi

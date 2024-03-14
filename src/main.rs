@@ -17,9 +17,9 @@ include_cpp! {
     // #include "ompl/geometric/SimpleSetup.h"
     safety!(unsafe)
     generate!("ompl::base::Cost")
-    generate!("ompl::base::Planner")
-    generate!("ompl::base::PlannerData")
-    generate!("ompl::base::SpaceInformation")
+    // generate!("ompl::base::Planner")
+    // generate!("ompl::base::PlannerData")
+    // generate!("ompl::base::SpaceInformation")
     // generate!("ompl::base::ProblemDefinition")
     // generate!("ompl::geometric::SimpleSetup")
 }
